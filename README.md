@@ -23,5 +23,5 @@ This demonstrates the Law of Big Numbers, by showing that for really big numbers
 
 ## How to start?
 Inside the birthdayParadox.js file, there is a driver code for the experiment. Feel free to change any parameter that you want to see the result change. 
-To run the program, type "node birthdayParadox.js".
+To run the program, type `node birthdayParadox.js`.
 
